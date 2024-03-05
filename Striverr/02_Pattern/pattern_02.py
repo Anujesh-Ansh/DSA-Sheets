@@ -37,4 +37,6 @@ def nForest(n:int) ->None:
         print()
     pass
 
+# Test Cases
+print("Test Case 1")
 nForest(3) # put any integer value, and get the desired output
